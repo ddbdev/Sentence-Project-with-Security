@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ddbdev/Sentence-Project
+          uri: https://github.com/ddbdev/Sentence-Project-with-Security
           username: ${GITUSER}
           password: ${AUTHTOKEN}
         default-label: main
