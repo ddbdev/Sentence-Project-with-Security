@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ASW 850.iml" filepath="$PROJECT_DIR$/.idea/ASW 850.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-object/ms-object.iml" filepath="$PROJECT_DIR$/ms-object/ms-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-subject/ms-subject.iml" filepath="$PROJECT_DIR$/ms-subject/ms-subject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-config/msconfig.iml" filepath="$PROJECT_DIR$/ms-config/msconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-discovery/msdiscovery.iml" filepath="$PROJECT_DIR$/ms-discovery/msdiscovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-gateway/msgateway.iml" filepath="$PROJECT_DIR$/ms-gateway/msgateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-sentence/mssentence.iml" filepath="$PROJECT_DIR$/ms-sentence/mssentence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msuser/msuser.iml" filepath="$PROJECT_DIR$/msuser/msuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-verb/msverb.iml" filepath="$PROJECT_DIR$/ms-verb/msverb.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ms-config/msconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-object/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-subject/pom.xml" />
+        <option value="$PROJECT_DIR$/msdiscovery/msdiscovery/pom.xml" />
+        <option value="$PROJECT_DIR$/msgateway/msgateway/pom.xml" />
+        <option value="$PROJECT_DIR$/msverb/ms-verb/pom.xml" />
+        <option value="$PROJECT_DIR$/mssentence/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-sentence/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-config/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-verb/pom.xml" />
+        <option value="$PROJECT_DIR$/msuser/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,61 @@
+spring:
+  jackson:
+    serialization:
+      indent-output: true
+  application:
+    name: user
+  main:
+    allow-bean-definition-overriding: true
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
+
+server:
+  servlet:
+    context-path: /user
+  port: 8084
+
+eureka:
+  client:
+    service-url:
+      default-zone: http:localhost:8761/eureka
+  #service-name :
+  #  subject: subject
+  #  verb: verb
+  #  object: object
+
+management:
+  health:
+    circuitbreakers:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      show-details: always
+
+feign:
+  circuitbreaker:
+    enabled: on
+    alphanumeric-ids:
+      enabled: true
+
+zipkin:
+  base-url: http://localhost:9411
+  sender.type: web
+  sleuth.sampler.probability: 1
+
+app:
+  ## Table name prefix
+  jwtSecret: 9a02115a835ee03d5fb83cd8a468ea33e4090aaaec87f53c9fa54512bbef4db8dc656c82a315fa0c785c08b0134716b81ddcd0153d2a7556f2e154912cf5675f
+  jwtExpirationInSeconds: 72000
+  permittedRoles: ROLE_USELESS,ROLE_GUEST,ROLE_USER

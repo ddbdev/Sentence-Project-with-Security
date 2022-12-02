@@ -1,0 +1,50 @@
+spring:
+  jackson:
+    serialization:
+      indent-output: true
+  application:
+    name: sentence
+  main:
+    allow-bean-definition-overriding: true
+
+server:
+  servlet:
+    context-path: /sentence
+  port: 8080
+
+eureka:
+  client:
+    service-url:
+      default-zone: http:localhost:8761/eureka
+  service-name :
+    subject: subject
+    verb: verb
+    object: object
+
+management:
+  health:
+    circuitbreakers:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      show-details: always
+
+feign:
+  circuitbreaker:
+    enabled: on
+    alphanumeric-ids:
+      enabled: true
+
+zipkin:
+  base-url: http://localhost:9411
+  sender.type: web
+  sleuth.sampler.probability: 1
+
+
+
+
+

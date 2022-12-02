@@ -1,0 +1,13 @@
+server:
+  servlet:
+    context-path: /subject
+  port: 8081
+
+eureka:
+  client:
+    service-url:
+      default-zone: http:localhost:8761/eureka
+
+asw.sentence:
+  wordservice:
+    words: word1,word2,word3

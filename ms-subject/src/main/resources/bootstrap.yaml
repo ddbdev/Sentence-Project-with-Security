@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: subject
+  jackson:
+    serialization:
+      indent-output: true
+  application:
+    name: subject
+  config:
+    import: optional:application.yaml
+  cloud:
+    config:
+      uri: http://localhost:8888/config

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ms-config/msconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-config/msconfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-object/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-object/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-sentence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-sentence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-subject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-subject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-verb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-verb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msdiscovery/msdiscovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msdiscovery/msdiscovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msgateway/msgateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msgateway/msgateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mssentence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mssentence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msuser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msuser/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msverb/ms-verb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msverb/ms-verb/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="msconfig" />
+        <module name="ms-object" />
+        <module name="ms-subject" />
+        <module name="msgateway" />
+        <module name="msuser" />
+        <module name="msdiscovery" />
+        <module name="msverb" />
+        <module name="mssentence" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ms-object" target="17" />
+      <module name="ms-subject" target="17" />
+      <module name="msconfig" target="17" />
+      <module name="msdiscovery" target="17" />
+      <module name="msgateway" target="17" />
+      <module name="mssentence" target="17" />
+      <module name="msuser" target="17" />
+      <module name="msverb" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ms-object" options="-parameters" />
+      <module name="ms-subject" options="-parameters" />
+      <module name="msconfig" options="-parameters" />
+      <module name="msdiscovery" options="-parameters" />
+      <module name="msgateway" options="-parameters" />
+      <module name="mssentence" options="-parameters" />
+      <module name="msuser" options="-parameters" />
+      <module name="msverb" options="-parameters" />
+    </option>
+  </component>
+</project>
