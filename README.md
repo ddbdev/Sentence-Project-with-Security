@@ -16,8 +16,8 @@ Vi sono già 3 user registrati ognuno per ruolo all'avvio dell'applicazione.
 # Team A:
 
 <p align="left">Di Bella Danilo - https://github.com/ddbdev</p>
-<p align="left">Davide D'Emilio - https://github.com/DavideDem</p>
-<p align="left">Giuseppe Carobelli - https://github.com/giucar89</p>
+<p align="left">D'Emilio Davide - https://github.com/DavideDem</p>
+<p align="left">Carobelli Giuseppe - https://github.com/giucar89</p>
  
  
 # Documento OpenFeign 
