@@ -1,0 +1,8 @@
+spring:
+  config:
+    activate:
+      on-profile: verb
+
+asw.sentence:
+  wordservice:
+    words: likes,loves,dreams,does not like,swim,eat,sing
