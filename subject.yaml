@@ -1,0 +1,8 @@
+spring:
+  config:
+    activate:
+      on-profile: subject
+
+asw.sentence:
+  wordservice:
+    words: Ann, Mary, John, My dog
