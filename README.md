@@ -22,4 +22,4 @@ Vi sono già 3 user registrati ognuno per ruolo all'avvio dell'applicazione.
  
 # Documento OpenFeign 
 
-- [Documentazione](https://github.com/ddbdev/Sentence-Project-with-Security/blob/final/Documentazione%20OpenFeign.pdf)
+- [Documentazione](https://github.com/ddbdev/Sentence-Project-with-Security/blob/main/Documentazione%20OpenFeign.pdf)
